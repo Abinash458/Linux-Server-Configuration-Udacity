@@ -1,10 +1,10 @@
 # Linux-Server-Configuration-Udacity
 
-#IP and URL:
+# IP and URL:
 	Public IP: http://35.154.248.64
 	Host name: ec2-35-154-248-64.ap-south-1.compute.amazonaws.com
 
-##How To:
+## How To:
 #Amazon Lightsail
 	1. Create Lightsail account and new Instance
 	2. Connect using SSH
